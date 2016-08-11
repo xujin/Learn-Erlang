@@ -1,0 +1,3 @@
+compile and run erlang program
+erlc hello.erl
+erl -noshello -s hello start -s init stop
